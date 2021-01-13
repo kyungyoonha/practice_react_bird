@@ -55,7 +55,6 @@ const AppLayout = ({ children }) => {
                     </a>
                 </Col>
             </Row>
-            {children}
         </div>
     );
 };
